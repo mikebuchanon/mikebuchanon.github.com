@@ -6,12 +6,9 @@ tagline: Living to serve
 {% include JB/setup %}
 
  
-## Sample Posts
+## More to come soon
 
-This blog contains sample posts which help stage pages and blog data.
-When you don't need the samples anymore just delete the `_posts/core-samples` folder.
-
-    $ rm -rf _posts/core-samples
+In the near future, I will begin posting things I've learned and scripts I've written while running enterprise systems in support of online learning over the last decade.
 
 Mental Meanderings:
 
